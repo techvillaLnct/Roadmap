@@ -1,0 +1,18 @@
+## Job Boards you can apply
+
+- [Angel.co](https://angel.co/web3)
+- [BlockAce](https://blockace.io/)
+- [NoDesk](https://nodesk.co/remote-jobs/blockchain-cryptocurrency-jobs/)
+- [CryptoDevHub](https://cryptodevhub.io/blockchain-developer-jobs)
+- [Cryptocurrencyjobs](https://cryptocurrencyjobs.co/)
+- [Cryptojoblist](https://cryptojobslist.com/)
+- [Blockew](https://blockew.com/)
+- [BlockAce](https://blockace.io/)
+- [Ethlance](https://ethlance.com/)
+- [Indeed](https://www.indeed.com/jobs?q=blockchain%20developer)
+- [Glassdoor](https://www.glassdoor.com/Job/blockchain-developer-jobs-SRCH_KO0,20.htm)
+- [Arc.dev](https://arc.dev/remote-jobs?categories=Blockchain)
+- [Web3.career](https://web3.career/)
+- [UseWeb3](https://www.useweb3.xyz/jobs)
+- [Remote3](https://remote3.co/web3-jobs)
+- [LinkedIn](https://www.linkedin.com/jobs/blockchain-developer-jobs/?currentJobId=3518049251&originalSubdomain=in)
